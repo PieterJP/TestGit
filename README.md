@@ -13,4 +13,5 @@ A small Git repo that test git knowledge:
 8. Make one small change, then demonstrate how they would safely undo it after committing.
 
 ## TESTS
-goodhello
+goodbye
+Hello
